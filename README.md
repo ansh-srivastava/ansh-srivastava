@@ -3,7 +3,7 @@
 </p> -->
 [![MasterHead](https://mycodingassignment.com/wp-content/uploads/2020/10/1_poBV7ex8L0Ss1Sr5n3HH3g.gif)]
 <h1 align="center">Hi 👋, I'm Ansh srivastava</h1>
-<h3 align="center">A passionate frontend developer and AI/ML enthusiast</h3>
+<h3 align="center">A passionate Full stack developer and AI/ML enthusiast</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-srivastava" /> </p>
