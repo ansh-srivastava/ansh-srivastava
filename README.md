@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Object Detection and Sign language detection**
 
-- 🌱 I’m currently learning **Deep learning , Web3 , AR/VR**
+- 🌱 Intermediate level of learning in **Deep learning , Artificial intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ansh-srivastava](https://github.com/ansh-srivastava)
 
-- 💬 Ask me about **Python , HTML , CSS , JavaScript ,C++, React**
+- 💬 Ask me about **Python , HTML , CSS , JavaScript ,C++, Flask, AI/ML Libraries**
 
 - 📫 How to reach me **ansh.srivastava0987@gmail.com or ansh2020csai124@abesit.edu.in**
 
